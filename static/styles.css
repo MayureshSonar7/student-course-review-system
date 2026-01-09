@@ -1,0 +1,12 @@
+body {
+    background-color: #f0f2f5;
+}
+
+.form-container {
+    max-width: 400px;
+    margin: 80px auto;
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+}
