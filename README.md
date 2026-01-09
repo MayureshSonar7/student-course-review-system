@@ -28,4 +28,5 @@ A detailed project report is available in the docs folder, explaining the system
 
 👤 Author:-
 Mayuresh Sonar
+
 Email:-Mayuresh.sonar7@gmail.com
